@@ -1,0 +1,48 @@
+.footer {
+    background: #2D343C;
+}
+
+.footer__content {
+    display: flex;
+    margin-top: 240px;
+    justify-content: space-between;
+}
+
+.footer__list {
+    list-style: none;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    margin-top: 72px;
+}
+
+.footer__contact {
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.footer__social {
+    margin-top: 20px;
+}
+
+.footer__email {
+    margin-top: 15px;
+}
+
+.footer__logo {
+    margin-bottom: 146px;
+    margin-top: 60px;
+}
+
+.footer__contacts {
+    margin-top: 72px;
+}
+
+.footer__img--vk,
+.footer__img--facebook,
+.footer__img--inst {
+    margin-left: 20px;
+}

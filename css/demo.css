@@ -1,0 +1,66 @@
+.demo {
+    background: url(../img/demo/city-bg.png);
+    background-size: cover;
+    background-position:  center;
+}
+
+.demo__title {
+    color: #D4C17F;
+    font-family: 'Playfair Display';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    margin-top: 180px;
+    width: 380px;
+}
+
+.demo__text {
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 50px;
+    width: 535px;
+    margin-bottom: 180px;
+}
+
+.demo__content {
+    display: flex;
+    align-items: center;
+}
+
+.form__warning {
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 13px;
+    text-align: center;
+    width: 255px;
+    margin-top: 43px;
+    margin-right: 30px;
+}
+
+.form__btn {
+    width: 255px;
+    height: 50px;
+    background: #d4c17f;
+    border: none;
+    color: #fff;
+    margin-top: 30px;
+    border: 1px solid #D4C17F;
+
+}
+
+.area:hover {
+    border-color: #D4C17F;
+    box-shadow: 0px 0px 20px #D4C17F;
+}
+
+.form__input--phone {
+    margin-left: 22px;
+}
+
+.demo__form {
+    display: flex;
+    flex-flow: wrap;
+    margin: 90px 0px 0px 35px;
+}

@@ -1,0 +1,17 @@
+.video__content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 595px;
+}
+
+.number {
+    font-family: 'Playfair Display';
+    font-weight: 700;
+    font-size: 400px;
+    text-align: center;
+    width: 418px;
+    height: 507px;
+    opacity: 2%;
+    margin-right: 200px;
+}
